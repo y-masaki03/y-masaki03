@@ -29,7 +29,7 @@
 <div align="left">
     <img height="180px" style="margin-right: 18px;" src="https://github-readme-stats.vercel.app/api?username=y-masaki03&show_icons=true&count_private=true&theme=great-gatsby"/>
     <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=y-masaki03&theme=great-gatsby&layout=compact"/>
-    <img width=80% src="https://github-profile-trophy.vercel.app/?username=y-masaki03&theme=onedark&row=1&no-bg=true"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=y-masaki03&theme=onedark&row=1&no-bg=true"/>
 </div>
 
 <br>
