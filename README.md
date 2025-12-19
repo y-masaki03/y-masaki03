@@ -14,23 +14,7 @@
 
 - :birthday: Born in 1999.
 - :technologist: Currently working as a full-stack engineer.
-- :upside_down_face: I'm shy, so approach with caution.
 - :memo: `"The path I chose is the right one."`
-
-<br>
-
-<!--profile visit count-->
-![](https://komarev.com/ghpvc/?username=y-masaki03)
-
-<br>
-
-<!--- stats & Trophy -->
-
-<div align="left">
-    <img height="180px" style="margin-right: 18px;" src="https://github-readme-stats.vercel.app/api?username=y-masaki03&show_icons=true&count_private=true&theme=great-gatsby"/>
-    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=y-masaki03&theme=great-gatsby&layout=compact"/>
-    <img src="https://github-profile-trophy.vercel.app/?username=y-masaki03&theme=onedark&row=1&no-bg=true"/>
-</div>
 
 <br>
 
@@ -49,4 +33,7 @@
 
 Credit: [y-masaki03](https://github.com/y-masaki03)
 
-Last Edited on: 02/10/2025
+Last Edited on: 2025/12/20
+
+<!--profile visit count-->
+![](https://komarev.com/ghpvc/?username=y-masaki03)
